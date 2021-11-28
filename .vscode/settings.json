@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "sendfile.h": "c",
+        "fcntl.h": "c",
+        "types.h": "c",
+        "fcntl-linux.h": "c"
+    }
+}
